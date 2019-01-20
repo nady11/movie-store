@@ -1,0 +1,108 @@
+.jumbotron{
+    background: url(../img/just\ you.jpg)
+
+}
+.display-4{
+    font-family: Arial, Helvetica, sans-serif;
+    font: 200;
+    font-display: float;
+     color: rgb(236, 229, 229);
+}
+.trending-now{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr  1fr;
+    grid-gap:1px;
+}
+.lead {font-family: Arial, Helvetica, sans-serif;
+    font: 200;
+    font-display: float;
+     color: rgb(236, 229, 229);
+}
+.jumbotron p{font-family: Arial, Helvetica, sans-serif;
+    font: 200;
+    font-display: float;
+     color: rgb(236, 229, 229);
+}
+
+.trending-now section img{
+    width:200px;
+    height:200px;
+}
+footer{
+    display:float;
+    text-align: center;
+    background:GREY;
+    padding: 25px;
+    color:black;
+    font-family: 'Source Sans Pro', sans- ;
+}
+footer {
+    background:black;
+    padding: 12px 38px;
+    margin-top: 33px;
+}
+
+footer .sections {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 2fr;
+    grid-gap: 16px;
+}
+footer .sections section a {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+footer .sections section a:hover {
+    text-decoration: underline;
+}
+footer .sections section h4 {
+    font-size: 24px;
+    color: #fff;    
+}
+footer .sections section p{
+    color: #fff;
+    margin-top: 62px;
+    margin-left: 81px;
+}
+
+
+.navbar{
+    background: black;
+}
+.nav-link{
+    color:white;
+}
+.navbar-brand{
+    color:white; 
+}
+.container h4{
+    margin-left: 381px;
+    font-size: 48px;
+    color: firebrick;
+    font-weight: 700;
+    font-family: serif
+}
+.container img{
+    width: 500px;
+    height: 512px;
+    margin-left: 237px;
+}
+
+.container p{
+    font-weight: 700;
+}
+.container p{
+    margin-left: 201px;
+}
+.content h2{
+    margin-left: 498px;
+    font-size: 49px;
+    font-weight: 700;
+    font-family: serif;
+}
+
+
+
+
+
